@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-shopping-cart/static/css/main.48461789.chunk.css",
+    "main.js": "/react-shopping-cart/static/js/main.94d46c40.chunk.js",
+    "main.js.map": "/react-shopping-cart/static/js/main.94d46c40.chunk.js.map",
+    "runtime-main.js": "/react-shopping-cart/static/js/runtime-main.1b57ae7e.js",
+    "runtime-main.js.map": "/react-shopping-cart/static/js/runtime-main.1b57ae7e.js.map",
+    "static/js/2.08b4f026.chunk.js": "/react-shopping-cart/static/js/2.08b4f026.chunk.js",
+    "static/js/2.08b4f026.chunk.js.map": "/react-shopping-cart/static/js/2.08b4f026.chunk.js.map",
+    "index.html": "/react-shopping-cart/index.html",
+    "static/css/main.48461789.chunk.css.map": "/react-shopping-cart/static/css/main.48461789.chunk.css.map",
+    "static/js/2.08b4f026.chunk.js.LICENSE.txt": "/react-shopping-cart/static/js/2.08b4f026.chunk.js.LICENSE.txt",
+    "static/media/bin-icon.0fc66f78.svg": "/react-shopping-cart/static/media/bin-icon.0fc66f78.svg",
+    "static/media/checkbox.91d07a30.svg": "/react-shopping-cart/static/media/checkbox.91d07a30.svg",
+    "static/media/logo.9cc4e339.svg": "/react-shopping-cart/static/media/logo.9cc4e339.svg",
+    "static/media/tung.25ee61bf.png": "/react-shopping-cart/static/media/tung.25ee61bf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b57ae7e.js",
+    "static/js/2.08b4f026.chunk.js",
+    "static/css/main.48461789.chunk.css",
+    "static/js/main.94d46c40.chunk.js"
+  ]
+}
